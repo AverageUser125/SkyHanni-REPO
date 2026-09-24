@@ -388,7 +388,7 @@
     },
     "JUNGLE": {
       "display_name": "Jungle Island",
-      "island": "PARK",
+      "island": "THE_PARK",
       "x": -466.5,
       "y": 121,
       "z": -33.5,
@@ -477,7 +477,7 @@
     },
     "HOWL": {
       "display_name": "Howling Cave",
-      "island": "PARK",
+      "island": "THE_PARK",
       "x": -395,
       "y": 96,
       "z": -62,
