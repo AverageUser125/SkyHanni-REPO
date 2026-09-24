@@ -31,6 +31,11 @@
       ]
     },
     {
+      "name": "ATLauncher",
+      "brand": "ATLauncher",
+      "firstStacks": []
+    },
+    {
       "name": "Feather Client",
       "firstStacks": [
         "net.digitalingot.vendor.",
