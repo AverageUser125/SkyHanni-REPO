@@ -229,9 +229,6 @@
       "affectedVersion": "7.53.0",
       "extraMessage": "Will be re-enabled in 7.54.0"
     },
-          "affectedVersion": "7.46.0",
-      "extraMessage": "Should not have been default enabled"
-    },
     {
       "enforcedValues": [
         {
