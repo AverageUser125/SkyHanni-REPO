@@ -212,15 +212,24 @@
     {
       "enforcedValues": [
         {
-          "path": "inventory.npcTrade.highlightAffordable",
-          "value": false
-        },
-        {
-          "path": "inventory.npcTrade.costBreakdown",
+          "path": "misc.boostWarningVolume",
           "value": false
         }
       ],
-      "affectedVersion": "7.46.0",
+      "minimumAffectedVersion": "7.52.0",
+      "affectedVersion": "9.0.0"
+    },
+    {
+      "enforcedValues": [
+        {
+          "path": "gui.actionBar.enabled",
+          "value": false
+        }
+      ],
+      "affectedVersion": "7.53.0",
+      "extraMessage": "Will be re-enabled in 7.54.0"
+    },
+          "affectedVersion": "7.46.0",
       "extraMessage": "Should not have been default enabled"
     },
     {
