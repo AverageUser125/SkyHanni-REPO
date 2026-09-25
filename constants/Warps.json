@@ -365,7 +365,7 @@
         "warpforge"
       ]
     },
-    "GALATEA": {
+    "MOONGLADE": {
       "display_name": "Moonglade Marsh",
       "island": "GALATEA",
       "x": -546.5,
@@ -452,7 +452,7 @@
         "springs"
       ]
     },
-    "TOP": {
+    "MOUND": {
       "display_name": "Spider Mound",
       "island": "SPIDER_DEN",
       "x": -188.5,
